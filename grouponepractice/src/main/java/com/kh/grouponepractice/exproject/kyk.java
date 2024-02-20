@@ -6,4 +6,5 @@ public class kyk {
 		return "/WEB-INF/views/member/join.jsp";
 	}
 	//도와주세요
+	//하이하이
 }
