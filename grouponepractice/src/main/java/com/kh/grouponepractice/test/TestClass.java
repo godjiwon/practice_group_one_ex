@@ -8,7 +8,7 @@ public class TestClass {
 	
 	@RequestMapping("/testPage")
 	public String testPage() {
-		return "테스트용 1 홈페이지 만들기...";
+		return "테스트용 1 홈페이지 만들기...ㅠㅠ";
 	}
 		
 }
